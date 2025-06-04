@@ -1,0 +1,8 @@
+[package]
+name = "cli-invaders"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.26"
+ctrlc = "3.2"
